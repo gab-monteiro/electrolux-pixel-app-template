@@ -1,1 +1,0 @@
-# electrolux-pixel-app-template
